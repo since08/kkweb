@@ -1,0 +1,34 @@
+.footer {
+    width:100%;
+    color: white !important;
+    padding: 40px;
+    bottom: 0;
+    background-color: #e53c26;
+    margin-top: 50px;
+}
+@media (max-width: 767px) {
+    .footer {
+        text-align: center;
+    }
+}
+
+.companies{
+    text-align: center;
+}
+
+.copyright{
+    margin-top: 30px;
+    text-align: center;
+}
+
+.footer .companies img{
+    float: left;
+    padding: 0 5px;
+}
+
+.footer .companies span{
+    padding: 0 5px;
+}
+.cooperation{
+    margin-top: 20px;
+}
